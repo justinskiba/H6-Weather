@@ -1,0 +1,8 @@
+.jumbotron {
+  background-image: linear-gradient(yellow, blue);
+}
+
+.searcharea {
+  background-color: blue;
+  padding: 20px;
+}
